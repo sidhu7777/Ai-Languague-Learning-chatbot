@@ -1,0 +1,9 @@
+[ 2025-03-25 15:55:28,651 ] 23 root - INFO - Creating directory;src for the file: __init__.py
+[ 2025-03-25 15:55:28,653 ] 28 root - INFO - Creating empty file: src\__init__.py
+[ 2025-03-25 15:55:28,654 ] 23 root - INFO - Creating directory;src for the file: prompt.py
+[ 2025-03-25 15:55:28,656 ] 28 root - INFO - Creating empty file: src\prompt.py
+[ 2025-03-25 15:55:28,658 ] 28 root - INFO - Creating empty file: .env
+[ 2025-03-25 15:55:28,659 ] 32 root - INFO - setup.py is already exists
+[ 2025-03-25 15:55:28,660 ] 28 root - INFO - Creating empty file: app.py
+[ 2025-03-25 15:55:28,661 ] 23 root - INFO - Creating directory;notebook for the file: soft.ipynb
+[ 2025-03-25 15:55:28,662 ] 28 root - INFO - Creating empty file: notebook\soft.ipynb

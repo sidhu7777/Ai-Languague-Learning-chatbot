@@ -1,0 +1,7 @@
+setup.py
+AI_Language_Learning_Chatbot.egg-info/PKG-INFO
+AI_Language_Learning_Chatbot.egg-info/SOURCES.txt
+AI_Language_Learning_Chatbot.egg-info/dependency_links.txt
+AI_Language_Learning_Chatbot.egg-info/top_level.txt
+src/__init__.py
+src/prompt.py
